@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/diana.io/static/css/main.81ca5868.chunk.css",
+    "main.js": "/diana.io/static/js/main.3ce20027.chunk.js",
+    "main.js.map": "/diana.io/static/js/main.3ce20027.chunk.js.map",
+    "runtime-main.js": "/diana.io/static/js/runtime-main.3c41de84.js",
+    "runtime-main.js.map": "/diana.io/static/js/runtime-main.3c41de84.js.map",
+    "static/js/2.2aaf8d5b.chunk.js": "/diana.io/static/js/2.2aaf8d5b.chunk.js",
+    "static/js/2.2aaf8d5b.chunk.js.map": "/diana.io/static/js/2.2aaf8d5b.chunk.js.map",
+    "index.html": "/diana.io/index.html",
+    "precache-manifest.81ac1efe954a18b30a4df91906fe5960.js": "/diana.io/precache-manifest.81ac1efe954a18b30a4df91906fe5960.js",
+    "service-worker.js": "/diana.io/service-worker.js",
+    "static/css/main.81ca5868.chunk.css.map": "/diana.io/static/css/main.81ca5868.chunk.css.map",
+    "static/js/2.2aaf8d5b.chunk.js.LICENSE.txt": "/diana.io/static/js/2.2aaf8d5b.chunk.js.LICENSE.txt",
+    "static/media/Diana.png": "/diana.io/static/media/Diana.be54de9f.png",
+    "static/media/Diana1.png": "/diana.io/static/media/Diana1.569e969d.png",
+    "static/media/FinalVideo.m4v": "/diana.io/static/media/FinalVideo.b3c5ded4.m4v",
+    "static/media/Luke.png": "/diana.io/static/media/Luke.3742adec.png",
+    "static/media/Luke1.png": "/diana.io/static/media/Luke1.3312aaa9.png",
+    "static/media/TakeAChance.mp3": "/diana.io/static/media/TakeAChance.5e49542b.mp3",
+    "static/media/cony.png": "/diana.io/static/media/cony.2c530eae.png",
+    "static/media/cony1.png": "/diana.io/static/media/cony1.6488b969.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c41de84.js",
+    "static/js/2.2aaf8d5b.chunk.js",
+    "static/css/main.81ca5868.chunk.css",
+    "static/js/main.3ce20027.chunk.js"
+  ]
+}
