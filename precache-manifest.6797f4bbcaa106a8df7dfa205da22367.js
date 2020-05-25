@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf649ad4da71d758f986f79a6a45d9ff",
+    "revision": "304a0776ae2beff944e02ea99c690e37",
     "url": "/diana.io/index.html"
   },
   {
-    "revision": "3c5be4e64fb6e59519e3",
-    "url": "/diana.io/static/css/main.d6140416.chunk.css"
+    "revision": "806a5bcb3a15c0c9a2bb",
+    "url": "/diana.io/static/css/main.0b0965d9.chunk.css"
   },
   {
     "revision": "fc87865d0c41672c021a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diana.io/static/js/2.8f539eca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c5be4e64fb6e59519e3",
+    "revision": "806a5bcb3a15c0c9a2bb",
     "url": "/diana.io/static/js/main.a08c8e56.chunk.js"
   },
   {
