@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fdd6e2e5fcdb9b5927507bf5117f691",
+    "revision": "bf649ad4da71d758f986f79a6a45d9ff",
     "url": "/diana.io/index.html"
   },
   {
-    "revision": "9596f9c5277a00f4dc93",
-    "url": "/diana.io/static/css/main.81ca5868.chunk.css"
+    "revision": "3c5be4e64fb6e59519e3",
+    "url": "/diana.io/static/css/main.d6140416.chunk.css"
   },
   {
-    "revision": "fc546044959ce78286d4",
-    "url": "/diana.io/static/js/2.2aaf8d5b.chunk.js"
+    "revision": "fc87865d0c41672c021a",
+    "url": "/diana.io/static/js/2.8f539eca.chunk.js"
   },
   {
     "revision": "882fee5ad56cfd78b1cc5d94b617aa42",
-    "url": "/diana.io/static/js/2.2aaf8d5b.chunk.js.LICENSE.txt"
+    "url": "/diana.io/static/js/2.8f539eca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9596f9c5277a00f4dc93",
-    "url": "/diana.io/static/js/main.3ce20027.chunk.js"
+    "revision": "3c5be4e64fb6e59519e3",
+    "url": "/diana.io/static/js/main.a08c8e56.chunk.js"
   },
   {
     "revision": "6ec8ee1e662a78ca7ac7",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/diana.io/precache-manifest.81ac1efe954a18b30a4df91906fe5960.js"
+  "/diana.io/precache-manifest.579faecf52958af19cb62d2c581a6e9b.js"
 );
 
 self.addEventListener('message', (event) => {
